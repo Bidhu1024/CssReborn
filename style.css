@@ -7,4 +7,32 @@
 height: 100px;
 width:800px;
 border: 1px solid red;
+display: flex;
+padding:1rem;
+gap:10px;
+margin: 100px;
 }
+
+#one{
+height:80px;
+width:80px;
+background-color: blue;
+}
+ #two{
+height:80px;
+width:80px;
+background-color: cyan;
+position:relative;
+top:10;
+left: 0;
+}
+#three{
+height:80px;
+width:80px;
+background-color: teal;
+}
+#four{
+height:80px;
+width:80px;
+background-color: green;
+} 
