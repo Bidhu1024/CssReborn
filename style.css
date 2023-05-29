@@ -1,8 +1,8 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 #parent{
 height: 100px;
 width:800px;
@@ -22,8 +22,8 @@ background-color: blue;
 height:80px;
 width:80px;
 background-color: cyan;
-position:relative;
-top:10;
+position:absolute;
+top:1;
 left: 0;
 }
 #three{
